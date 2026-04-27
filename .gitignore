@@ -1,3 +1,7 @@
+# OS files to ignore
+.DS_Store
+Thumbs.db
+
 # Terraform files to ignore
 .terraform
 .terraform.lock.hcl
