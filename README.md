@@ -41,6 +41,9 @@ terraform show
 
 # 6) Make a small change (e.g., add a tag), then plan again
 terraform plan
+
+# 7) Destroy all resources - if you want to do that in the end
+terraform destroy
 ```
 
 ## Expected outcomes
